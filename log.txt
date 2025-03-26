@@ -1,0 +1,94 @@
+[33mcommit a4cfff3eaeec223c47378d29d5120b2717d8af5c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1609767 8681bbc
+Author: Keerthinarayan <149809285+Keerthinarayan@users.noreply.github.com>
+Date:   Wed Mar 26 21:28:44 2025 +0530
+
+    Merge pull request #4 from amoghar29/keerthi
+    
+    pulled
+
+[33mcommit 1609767a9fa324b1569c20185be17dd7486a4e03[m
+Merge: 6cdfe70 6d5582f
+Author: Amogha R <148464672+amoghar29@users.noreply.github.com>
+Date:   Wed Mar 26 21:24:17 2025 +0530
+
+    Merge pull request #3 from amoghar29/ananya
+    
+    Ananya
+
+[33mcommit 8681bbc4690023d7f0a2b48f88701f2bbb1ee6af[m[33m ([m[1;31morigin/keerthi[m[33m)[m
+Merge: 72d2c31 6cdfe70
+Author: Keerthinarayan <keerthimv2005@gmail.com>
+Date:   Wed Mar 26 21:20:07 2025 +0530
+
+    Merge branch 'main' of https://github.com/amoghar29/demo into keerthi
+
+[33mcommit 6d5582f9159f975aa97104dedf5e71cc6b3e9abd[m[33m ([m[1;31morigin/ananya[m[33m)[m
+Merge: ca49ce8 6cdfe70
+Author: Ananya102005 <ananyabs66@gmail.com>
+Date:   Wed Mar 26 21:20:07 2025 +0530
+
+    Merge branch 'main' of https://github.com/amoghar29/demo into ananya
+    .asfsdvd
+
+[33mcommit ca49ce87c8136d599a73a78a34223de608bd15a3[m
+Author: Ananya102005 <ananyabs66@gmail.com>
+Date:   Wed Mar 26 21:16:56 2025 +0530
+
+    updated
+
+[33mcommit 72d2c31924136acfceff3fcdd77c9b91337286f9[m
+Author: Keerthinarayan <keerthimv2005@gmail.com>
+Date:   Wed Mar 26 21:14:26 2025 +0530
+
+    I'm batman
+
+[33mcommit 6cdfe701d54ba1648254791dda64f4ae1b76e07c[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Merge: aa7a373 d1243be
+Author: Amogha R <148464672+amoghar29@users.noreply.github.com>
+Date:   Wed Mar 26 20:00:39 2025 +0530
+
+    Merge pull request #2 from amoghar29/ananya
+    
+    Ananya
+
+[33mcommit aa7a373743d1a60e128b89daf6415b54992aed5c[m
+Merge: c5e71a2 c0ef832
+Author: Amogha R <148464672+amoghar29@users.noreply.github.com>
+Date:   Wed Mar 26 19:58:00 2025 +0530
+
+    Merge pull request #1 from amoghar29/keerthi
+    
+     keerthi doc
+
+[33mcommit d1243be1a9a56d4e293e3ae43d30fa0bba7870ee[m
+Merge: 28626f2 c5e71a2
+Author: amogha r <amoghar23@gmail.com>
+Date:   Wed Mar 26 19:50:12 2025 +0530
+
+    dsdffsd
+    erge branch 'main' of https://github.com/amoghar29/demo into ananya
+
+[33mcommit 28626f2a616e35820d425603514bb6cf39101895[m
+Author: amogha r <amoghar23@gmail.com>
+Date:   Wed Mar 26 19:49:35 2025 +0530
+
+     add branch
+
+[33mcommit c0ef832ad419ccf304f636d38ee4bd7d835e88a7[m
+Author: amogha r <amoghar23@gmail.com>
+Date:   Wed Mar 26 19:48:15 2025 +0530
+
+     keerthi doc
+
+[33mcommit c5e71a2b562a6576e46c46167a25df8b7e9a669b[m
+Author: amogha r <amoghar23@gmail.com>
+Date:   Wed Mar 26 19:45:07 2025 +0530
+
+    fsdf
+
+[33mcommit a3ea676b1458aeab6d7a80fd4315b1df6ea7a9dc[m
+Author: amogha r <amoghar23@gmail.com>
+Date:   Wed Mar 26 19:33:16 2025 +0530
+
+    first commit
